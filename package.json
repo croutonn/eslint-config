@@ -1,0 +1,9 @@
+{
+  "name": "@croutonn/eslint-config",
+  "version": "1.0.0",
+  "description": "This is eslint-config for me",
+  "main": "index.js",
+  "repository": "git@github.com:croutonn/eslint-config.git",
+  "author": "croutonn <croutonna@gmail.com>",
+  "license": "MIT"
+}
