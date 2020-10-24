@@ -7,7 +7,7 @@ const test = require('tape')
 const configs = require('./config-list')
 
 test('all entry points parse', (t) => {
-  configs.forEach(config => {
+  configs.forEach((config) => {
     t.doesNotThrow(() => require(`../${config}`), `${config} does not throw`)
   })
 
