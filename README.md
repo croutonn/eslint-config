@@ -1,5 +1,10 @@
 # @croutonn/eslint-config
 
+[![npm version](https://img.shields.io/npm/v/@croutonn/eslint-config.svg)](https://www.npmjs.com/package/@croutonn/eslint-config)
+[![Downloads/month](https://img.shields.io/npm/dm/@croutonn/eslint-config.svg)](http://www.npmtrends.com/@croutonn/eslint-config)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/croutonn/eslint-config/CI/main)
+[![Dependency Status](https://david-dm.org/croutonn/eslint-config.svg)](https://david-dm.org/croutonn/eslint-config)
+
 This is eslint-config for me.
 
 ## Usage
