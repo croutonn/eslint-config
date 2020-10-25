@@ -18,15 +18,15 @@ This is eslint-config for me.
     "jest": true,
     "node": true
   },
-  "extends": ["@croutonn/javascript-react-loose"],
+  "extends": ["@croutonn/eslint-config/javascript-react-loose"],
   "overrides": [
     {
       "files": ["**/*.ts", "**/*.tsx"],
-      "extends": ["@croutonn/typescript-react-loose"]
+      "extends": ["@croutonn/eslint-config/typescript-react-loose"]
     },
     {
       "files": ["**/*.d.ts"],
-      "extends": ["@croutonn/typescript-declare"]
+      "extends": ["@croutonn/eslint-config/typescript-declare"]
     },
     {
       "files": [
@@ -41,7 +41,7 @@ This is eslint-config for me.
         "**/*.spec.ts",
         "**/*.spec.tsx"
       ],
-      "extends": ["@croutonn/typescript-test"]
+      "extends": ["@croutonn/eslint-config/typescript-test"]
     },
     {
       "files": [
@@ -56,7 +56,7 @@ This is eslint-config for me.
         "**/*.spec.js",
         "**/*.spec.jsx"
       ],
-      "extends": ["@croutonn/javascript-test"]
+      "extends": ["@croutonn/eslint-config/javascript-test"]
     }
   ]
 }
