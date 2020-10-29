@@ -22,6 +22,9 @@ This is eslint-config for me.
   "overrides": [
     {
       "files": ["**/*.ts", "**/*.tsx"],
+      "parserOptions": {
+        "project": "./tsconfig.json"
+      },
       "extends": ["@croutonn/eslint-config/typescript-react-loose"]
     },
     {
