@@ -211,10 +211,14 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@croutonn/eslint-plugin@^0.2.4":
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/@croutonn/eslint-plugin/-/eslint-plugin-0.2.4.tgz#dff1b543318dafe762ab523b9f448e4b1b9c136e"
-  integrity sha512-e5wYlQBPAUp3mzfwevrwRSEsQsAB2wG6abL48lR0vv0e3VC46VDvrQDy97pwQ8DTuILVy/Ey43MBhrndgZwcGA==
+"@croutonn/eslint-plugin@^0.2.5":
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/@croutonn/eslint-plugin/-/eslint-plugin-0.2.5.tgz#4be13a4e01d89c948110c5957faff079e0ba35d5"
+  integrity sha512-mVSgvmvFxCAB/4siek4mcJamibK+YevotPncY3ecY3TDVELUQzF/L2IRFIYepO6LtwNriKi3Aov6EG1KzmTnLw==
+  dependencies:
+    array-includes "^3.1.1"
+    eslint-plugin-jsx-a11y "^6.4.1"
+    jsx-ast-utils "^3.1.0"
 
 "@eslint/eslintrc@^0.2.1":
   version "0.2.1"
