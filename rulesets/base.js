@@ -12,8 +12,6 @@ module.exports = {
       allow: ['__APOLLO__STATE__', '__NEXT_DATA__', '__NUXT__ '],
     },
   ],
-  'import/exports-last': 'error',
-  'import/group-exports': 'error',
   'import/order': [
     'error',
     {
