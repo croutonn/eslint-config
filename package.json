@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@croutonn/eslint-plugin": "^0.2.9",
-    "@typescript-eslint/eslint-plugin": "^4.7.0",
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-typescript": "^12.0.0",
     "eslint-config-prettier": "^6.15.0",
@@ -46,8 +46,8 @@
   },
   "devDependencies": {
     "babel-tape-runner": "^3.0.0",
-    "eslint": "^7.13.0",
-    "prettier": "^2.1.2",
+    "eslint": "^7.14.0",
+    "prettier": "^2.2.0",
     "react": "^17.0.1",
     "tape": "^5.0.1"
   }
