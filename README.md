@@ -1,8 +1,7 @@
 # @typehut/eslint-config
 
-[![npm version](https://img.shields.io/npm/v/@typehut/eslint-config.svg)](https://www.npmjs.com/package/@typehut/eslint-config)
-[![Downloads/month](https://img.shields.io/npm/dm/@typehut/eslint-config.svg)](http://www.npmtrends.com/@typehut/eslint-config)
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/typehut/eslint-config/CI/main)
+[![npm version](https://img.shields.io/github/v/release/typehut/eslint-config)](https://github.com/typehut/eslint-config/packages/817063)
+[![Build Status](https://img.shields.io/github/workflow/status/typehut/eslint-config/Test)](https://travis-ci.org/typehut/eslint-config)
 [![Dependency Status](https://david-dm.org/typehut/eslint-config.svg)](https://david-dm.org/typehut/eslint-config)
 
 This is eslint-config for me.
