@@ -1,6 +1,6 @@
 {
   "name": "@typehut/eslint-config",
-  "version": "1.0.14",
+  "version": "1.1.0",
   "description": "This is eslint-config for us.",
   "repository": {
     "type": "git",
