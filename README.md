@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/github/workflow/status/typehut/eslint-config/Test)](https://travis-ci.org/typehut/eslint-config)
 [![Dependency Status](https://david-dm.org/typehut/eslint-config.svg)](https://david-dm.org/typehut/eslint-config)
 
-This is eslint-config for me.
+This is eslint-config for us.
 
 ## Usage
 
