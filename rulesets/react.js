@@ -13,7 +13,7 @@ module.exports = {
   ],
   'jsx-a11y/anchor-has-content': 'off',
   'jsx-a11y/control-has-associated-label': 'off',
-  '@croutonn/jsx-a11y-anchor-has-content': a11y['jsx-a11y/anchor-has-content'],
-  '@croutonn/jsx-a11y-control-has-associated-label':
+  '@typehut/jsx-a11y-anchor-has-content': a11y['jsx-a11y/anchor-has-content'],
+  '@typehut/jsx-a11y-control-has-associated-label':
     a11y['jsx-a11y/control-has-associated-label'],
 }

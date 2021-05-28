@@ -6,7 +6,7 @@ module.exports = {
   extends: [
     'airbnb',
     'airbnb/hooks',
-    'plugin:@croutonn/recommended',
+    'plugin:@typehut/recommended',
     'prettier',
     'prettier/react',
   ],

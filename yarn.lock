@@ -220,9 +220,9 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@croutonn/eslint-plugin@^0.2.9":
+"@typehut/eslint-plugin@^0.2.9":
   version "0.2.9"
-  resolved "https://registry.yarnpkg.com/@croutonn/eslint-plugin/-/eslint-plugin-0.2.9.tgz#dafe3c4fa9895f5584fcc237c88c79299f131992"
+  resolved "https://registry.yarnpkg.com/@typehut/eslint-plugin/-/eslint-plugin-0.2.9.tgz#dafe3c4fa9895f5584fcc237c88c79299f131992"
   integrity sha512-Ac5M4Yl5U34AlxXcXjsdTKLbOqVUtsqzKXSvTFuxS04scHc2WbIWiQwiDPjgrR+ccu9pEGDyvZl+leDVJF1ehQ==
   dependencies:
     "@babel/types" "^7.12.6"

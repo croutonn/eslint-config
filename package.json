@@ -1,19 +1,19 @@
 {
-  "name": "@croutonn/eslint-config",
+  "name": "@typehut/eslint-config",
   "version": "1.0.14",
   "description": "This is eslint-config for me.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/croutonn/eslint-config.git"
+    "url": "git+https://github.com/typehut/eslint-config.git"
   },
   "bugs": {
-    "url": "https://github.com/croutonn/eslint-config/issues"
+    "url": "https://github.com/typehut/eslint-config/issues"
   },
-  "homepage": "https://github.com/croutonn/eslint-config#readme",
+  "homepage": "https://github.com/typehut/eslint-config#readme",
   "publishConfig": {
     "access": "public"
   },
-  "author": "@croutonn",
+  "author": "@typehut",
   "license": "MIT",
   "keywords": [
     "eslint",
@@ -34,7 +34,7 @@
     "version": "yarn fix"
   },
   "dependencies": {
-    "@croutonn/eslint-plugin": "^0.2.9",
+    "@typehut/eslint-plugin": "^0.2.9",
     "@typescript-eslint/eslint-plugin": "^4.8.2",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-typescript": "^12.0.0",
