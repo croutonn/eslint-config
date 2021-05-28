@@ -1,7 +1,7 @@
 {
   "name": "@typehut/eslint-config",
   "version": "1.0.14",
-  "description": "This is eslint-config for me.",
+  "description": "This is eslint-config for us.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/typehut/eslint-config.git"
@@ -11,7 +11,8 @@
   },
   "homepage": "https://github.com/typehut/eslint-config#readme",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "@typehut",
   "license": "MIT",
