@@ -1,4 +1,4 @@
-const a11y = require('eslint-config-airbnb/rules/react-a11y.js').rules
+const a11y = require('eslint-config-airbnb/rules/react-a11y').rules
 
 module.exports = {
   'react/destructuring-assignment': ['error', 'never'],
