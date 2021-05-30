@@ -1,5 +1,6 @@
 module.exports = [
   'index',
+  'esmodule',
   'javascript',
   'javascript-test',
   'javascript-loose',
