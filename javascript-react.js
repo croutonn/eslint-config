@@ -8,7 +8,6 @@ module.exports = {
     'airbnb/hooks',
     'plugin:@typehut/recommended',
     'prettier',
-    'prettier/react',
   ],
   rules: {
     ...base.rules,

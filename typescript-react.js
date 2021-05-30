@@ -9,8 +9,6 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'plugin:@typehut/recommended',
     'prettier',
-    'prettier/react',
-    'prettier/@typescript-eslint',
   ],
   rules: {
     ...base.rules,

@@ -6,7 +6,6 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'plugin:@typehut/recommended',
     'prettier',
-    'prettier/@typescript-eslint',
   ],
   rules: baseRules,
 }
