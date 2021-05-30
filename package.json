@@ -27,6 +27,7 @@
     "LICENSE",
     "package.json",
     "index.js",
+    "esmodule.js",
     "javascript.js",
     "javascript-loose.js",
     "javascript-react.js",
